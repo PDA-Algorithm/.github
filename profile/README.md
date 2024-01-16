@@ -5,12 +5,27 @@
 
 <table>
 <tr>
+<td align="center"><a href="https://github.com/kkh0331"><img src="https://avatars.githubusercontent.com/u/99806443?v=4" width="100px;" alt=""/><br /><sub><b>권기현</b></sub></a>
+<td align="center"><a href="https://github.com/EastWon0103"><img src="https://avatars.githubusercontent.com/u/63653473?v=4" width="100px;" alt=""/><br /><sub><b>김동원</b></sub></a></td>
+<td align="center"><a href="https://github.com/allllfo"><img src="https://avatars.githubusercontent.com/u/86925185?v=4" width="100px;" alt=""/><br /><sub><b>김미래</b></sub></a></td>
+<td align="center"><a href="https://github.com/bkkmw"><img src="https://avatars.githubusercontent.com/u/78014844?v=4" width="100px;" alt=""/><br /><sub><b>김민우</b></sub></a></td>
 <td align="center"><a href="https://github.com/lvolzdev"><img src="https://avatars.githubusercontent.com/u/63188042?v=4" width="100px;" alt=""/><br /><sub><b>김시은</b></sub></a></td>
+<td align="center"><a href="https://github.com/KimYoungSeok15"><img src="https://avatars.githubusercontent.com/u/122508517?v=4" width="100px;" alt=""/><br /><sub><b>김영석</b></sub></a></td>
+</tr>
+<tr>
 <td align="center"><a href="https://github.com/rlafl7942"><img src="https://avatars.githubusercontent.com/u/46741373?v=4" width="100px;" alt=""/><br /><sub><b>김예리</b></sub></a></td>
 <td align="center"><a href="https://github.com/youhyeoneee"><img src="https://avatars.githubusercontent.com/u/37354574?v=4" width="100px;" alt=""/><br /><sub><b>김유현</b></sub></a></td>
+<td align="center"><a href="https://github.com/SJJuunnY"><img src="https://avatars.githubusercontent.com/u/118606256?v=4" width="100px;" alt=""/><br /><sub><b>유승준</b></sub></a></td>
 <td align="center"><a href="https://github.com/godltjsdud"><img src="https://avatars.githubusercontent.com/u/71091090?v=4" width="100px;" alt=""/><br /><sub><b>이선영</b></sub></a></td>
 <td align="center"><a href="https://github.com/eehanseul"><img src="https://avatars.githubusercontent.com/u/129421334?v=4" width="100px;" alt=""/><br /><sub><b>이한슬</b></sub></a></td>
+<td align="center"><a href="https://github.com/hleeat"><img src="https://avatars.githubusercontent.com/u/92327104?v=4" width="100px;" alt=""/><br /><sub><b>이현지</b></sub></a>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/NOEL-code"><img src="https://avatars.githubusercontent.com/u/83216048?v=4" width="100px;" alt=""/><br /><sub><b>정우성</b></sub></a></td>
+<td align="center"><a href="https://github.com/chanjin1998"><img src="https://avatars.githubusercontent.com/u/70675133?v=4" width="100px;" alt=""/><br /><sub><b>정찬진</b></sub></a></td>
 <td align="center"><a href="https://github.com/chaeheonjeong"><img src="https://avatars.githubusercontent.com/u/116990111?v=4" width="100px;" alt=""/><br /><sub><b>정채헌</b></sub></a>
+<td align="center"><a href="https://github.com/heeeesoo"><img src="https://avatars.githubusercontent.com/u/73633272?v=4" width="100px;" alt=""/><br /><sub><b>정희수</b></sub></a>
+<td align="center"><a href="https://github.com/ekgus9701"><img src="https://avatars.githubusercontent.com/u/52192706?v=4" width="100px;" alt=""/><br /><sub><b>한다현</b></sub></a>
 </tr>
 </table>
 
