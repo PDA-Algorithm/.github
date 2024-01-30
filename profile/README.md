@@ -15,12 +15,13 @@
 <tr>
 <td align="center"><a href="https://github.com/rlafl7942"><img src="https://avatars.githubusercontent.com/u/46741373?v=4" width="100px;" alt=""/><br /><sub><b>김예리</b></sub></a></td>
 <td align="center"><a href="https://github.com/youhyeoneee"><img src="https://avatars.githubusercontent.com/u/37354574?v=4" width="100px;" alt=""/><br /><sub><b>김유현</b></sub></a></td>
+<td align="center"><a href="https://github.com/jiminpark23"><img src="https://avatars.githubusercontent.com/u/122578483?v=4" width="100px;" alt=""/><br /><sub><b>박지민</b></sub></a>
 <td align="center"><a href="https://github.com/SJJuunnY"><img src="https://avatars.githubusercontent.com/u/118606256?v=4" width="100px;" alt=""/><br /><sub><b>유승준</b></sub></a></td>
 <td align="center"><a href="https://github.com/godltjsdud"><img src="https://avatars.githubusercontent.com/u/71091090?v=4" width="100px;" alt=""/><br /><sub><b>이선영</b></sub></a></td>
 <td align="center"><a href="https://github.com/eehanseul"><img src="https://avatars.githubusercontent.com/u/129421334?v=4" width="100px;" alt=""/><br /><sub><b>이한슬</b></sub></a></td>
-<td align="center"><a href="https://github.com/hleeat"><img src="https://avatars.githubusercontent.com/u/92327104?v=4" width="100px;" alt=""/><br /><sub><b>이현지</b></sub></a>
 </tr>
 <tr>
+<td align="center"><a href="https://github.com/hleeat"><img src="https://avatars.githubusercontent.com/u/92327104?v=4" width="100px;" alt=""/><br /><sub><b>이현지</b></sub></a>
 <td align="center"><a href="https://github.com/NOEL-code"><img src="https://avatars.githubusercontent.com/u/83216048?v=4" width="100px;" alt=""/><br /><sub><b>정우성</b></sub></a></td>
 <td align="center"><a href="https://github.com/chanjin1998"><img src="https://avatars.githubusercontent.com/u/70675133?v=4" width="100px;" alt=""/><br /><sub><b>정찬진</b></sub></a></td>
 <td align="center"><a href="https://github.com/chaeheonjeong"><img src="https://avatars.githubusercontent.com/u/116990111?v=4" width="100px;" alt=""/><br /><sub><b>정채헌</b></sub></a>
@@ -41,6 +42,6 @@
 
 <br>
 
-### ✔️ 커밋 형식 예시
+### ✔️ 파일 경로 예시
 * python / 1주차_자료구조 / BOJ_10828 / 김예리_스택.py
 * Java / 1주차_자료구조 / BOJ_10828 / 이선영_스택.java
