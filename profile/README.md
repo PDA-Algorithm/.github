@@ -53,8 +53,8 @@
 | 00 | Data Structure | 자료구조 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/data_structure) | 16 | 25 | ![status][DONE] |
 | 01 | Data Structure 2 | 자료구조 2 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/data_structure2) | 11 | 21 | ![status][DONE] |
 | 02 | Tree | 트리 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/tree) | 15 | 44 | ![status][DONE] |
-| 03 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/dynamic_programming_1) | 27 | 80 | ![status][Doing] |
-| 04 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_2) | 28 | 81 | ![status][Doing] |
+| 03 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/dynamic_programming_1) | 27 | 80 | ![status][DONE] |
+| 04 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_2) | 28 | 81 | ![status][DONE] |
 | 05 | Math | 수학 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/math) | 18 | 29 | ![status][Doing] |
 | 06 | Greedy | 탐욕법 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/greedy) | 27 | 62 | ![status][Doing] |
 | 07 | Two Pointer | 투 포인터 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/two_pointer) | 13 | 36 | ![status][Doing] |
