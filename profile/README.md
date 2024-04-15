@@ -56,10 +56,10 @@
 | 03 | Dynamic Programming 1 | 동적계획법 1 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/dynamic_programming_1) | 27 | 80 | ![status][DONE] |
 | 04 | Dynamic Programming 2 | 동적계획법 2 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_2) | 28 | 81 | ![status][DONE] |
 | 05 | Math | 수학 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/math) | 18 | 29 | ![status][DONE] |
-| 06 | Greedy | 탐욕법 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/greedy) | 27 | 62 | ![status][Doing] |
-| 07 | Two Pointer | 투 포인터 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/two_pointer) | 13 | 36 | ![status][Doing] |
-| 08 | Implementation | 구현 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/implementation) | 30 | 51 | ![status][Doing] |
-| 09 | Graph Traversal | 그래프 탐색 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/graph_traversal) | 31 | 96 | ![status][Doing] |
+| 06 | Greedy | 탐욕법 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/greedy) | 27 | 62 | ![status][DONE] |
+| 07 | Two Pointer | 투 포인터 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/two_pointer) | 13 | 36 | ![status][DONE]|
+| 08 | Implementation | 구현 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/implementation) | 30 | 51 | ![status][DONE]|
+| 09 | Graph Traversal | 그래프 탐색 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/graph_traversal) | 31 | 96 | ![status][DONE] |
 | 10 | Brute Force | 완전탐색 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/brute_force) | 33 | 94 | ![status][Doing] |
 | 11 | Simulation | 시뮬레이션 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/simulation) | 30 | 48 | ![status][Doing] |
 | 12 | Binary Search | 이분탐색 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/binary_search) | 20 | 66 | ![status][Doing] |
