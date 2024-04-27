@@ -60,8 +60,8 @@
 | 07 | Two Pointer | 투 포인터 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/two_pointer) | 13 | 36 | ![status][DONE]|
 | 08 | Implementation | 구현 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/implementation) | 30 | 51 | ![status][DONE]|
 | 09 | Graph Traversal | 그래프 탐색 | [바로가기](https://github.com/tony9402/baekjoon/tree/main/graph_traversal) | 31 | 96 | ![status][DONE] |
-| 10 | Brute Force | 완전탐색 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/brute_force) | 33 | 94 | ![status][Doing] |
-| 11 | Simulation | 시뮬레이션 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/simulation) | 30 | 48 | ![status][Doing] |
+| 10 | Brute Force | 완전탐색 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/brute_force) | 33 | 94 | ![status][DONE] |
+| 11 | Simulation | 시뮬레이션 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/simulation) | 30 | 48 | ![status][DONE] |
 | 12 | Binary Search | 이분탐색 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/binary_search) | 20 | 66 | ![status][Doing] |
 | 13 | Backtracking | 백트래킹 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/backtracking) | 28 | 75 | ![status][Doing] |
 | 14 | Divide and conquer | 분할정복 | [바로가기](http://github.com/tony9402/baekjoon/blob/main/divide_and_conquer) | 08 | 18 | ![status][Doing] |
